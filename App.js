@@ -1,9 +1,9 @@
 import React from 'react';
-import Calculator from './components/Calculator'
+import NumberGuessingGame from './components/NumberGuessingGame'
 
 export default function App() {
   return (
-        <Calculator/>
+        <NumberGuessingGame/>
   );
 }
 
