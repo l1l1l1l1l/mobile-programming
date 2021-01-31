@@ -1,9 +1,9 @@
 import React from 'react';
-import CalculatorWithHistory from './components/CalculatorWithHistory'
+import ShoppingList from './components/ShoppingList'
 
 export default function App() {
   return (
-        <CalculatorWithHistory/>
+        <ShoppingList/>
   );
 }
 
