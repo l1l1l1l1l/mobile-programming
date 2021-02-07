@@ -14,6 +14,7 @@ export default function History({ route }) {
         </View>
     )
 }
+
 const styles = StyleSheet.create({
     container: {
         flex: 1,

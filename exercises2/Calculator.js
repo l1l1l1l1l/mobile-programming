@@ -77,6 +77,4 @@ const styles = StyleSheet.create({
     heading: {
         fontSize: 25
     }
-
-
 });

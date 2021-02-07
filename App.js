@@ -4,7 +4,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import History from './exercises2/History'
 import Calculator from './exercises2/Calculator'
 
-const Stack = createStackNavigator();
+const Stack = createStackNavigator(); 
 
 export default function App() {
   return (
