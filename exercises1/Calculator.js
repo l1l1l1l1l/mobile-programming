@@ -12,7 +12,7 @@ export default function Calculator() {
   }
 
   const subtract = () => {
-    setResult(firstNum - secondNum);
+    setResult(parseInt(firstNum) - parseInt(secondNum));
   }
 
   const Separator = () => (
