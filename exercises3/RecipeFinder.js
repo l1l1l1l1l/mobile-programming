@@ -30,7 +30,7 @@ export default function RecipeFinder() {
                             <Image
                                 style={{ height: 40, width: 40 }}
                                 source={{
-                                    url: `${item.thumbnail}`,
+                                    uri: `${item.thumbnail}`,
                                 }}
                             />
                         </View>
