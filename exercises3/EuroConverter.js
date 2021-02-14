@@ -23,7 +23,6 @@ export default function EuroConverter() {
         getRates()
     }, [])
 
-
     const convert = () => {
         const rate = rates[selectedValue];
         SetResult((amount / rate).toFixed(2));

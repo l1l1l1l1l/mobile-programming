@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Text, View, StyleSheet, Button, FlatList, Alert } from 'react-native';
+import { Text, View, StyleSheet, Button, FlatList, Alert, Image } from 'react-native';
 import { TextInput } from 'react-native-gesture-handler';
 
 export default function RecipeFinder() {
