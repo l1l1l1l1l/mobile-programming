@@ -41,7 +41,7 @@ export default function AddressWithLocation() {
         const KEY = "vN6b2iez3Tj32ExoHUsOFVEUowTAeQN7";
 
         fetch(
-            `http://www.mapquestapi.com/geocoding/v1/address?key=${KEY}&location=${location}`
+            `http://www.mapquestapi.com/geocoding/v1/address?key=${KEY}&inFormat=jsonN&outFormat=json&location=${location}`
         )
             .then((response) => response.json())
             .then((data) => {
