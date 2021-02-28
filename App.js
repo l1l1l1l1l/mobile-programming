@@ -1,12 +1,12 @@
 import * as React from 'react';
-import FindTheAddress from './exercises4/FindTheAddress'
-//import EuroConverter from './exercises3/EuroConverter'
+//import FindTheAddress from './exercises4/FindTheAddress'
+import AddressWithLocation from './exercises4/AddressWithLocation'
 
 
 export default function App() {
   return (
-  <FindTheAddress/>
-  //<EuroConverter/>
+  //<FindTheAddress/>
+  <AddressWithLocation/>
   );
 }
 
