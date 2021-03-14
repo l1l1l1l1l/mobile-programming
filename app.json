@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "ShoppingListDB",
-    "slug": "shoppinglistdb",
+    "name": "TextToSpeech",
+    "slug": "texttospeech",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,6 @@
       "favicon": "./assets/favicon.png"
     },
     "description": "",
-    "githubUrl": "https://github.com/l1l1l1l1l/mobile-programming/blob/main/exercises5/ShoppingListDB.js"
+    "githubUrl": "https://github.com/l1l1l1l1l/mobile-programming/blob/main/exercises6/TextToSpeech.js"
   }
 }
