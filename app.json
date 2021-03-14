@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FindTheAddress",
-    "slug": "findtheaddress",
+    "name": "ShoppingListDB",
+    "slug": "shoppinglistdb",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -29,6 +29,6 @@
       "favicon": "./assets/favicon.png"
     },
     "description": "",
-    "githubUrl": "https://github.com/l1l1l1l1l/mobile-programming/blob/main/exercises4/FindTheAddress.js"
+    "githubUrl": "https://github.com/l1l1l1l1l/mobile-programming/blob/main/exercises5/ShoppingListDB.js"
   }
 }
