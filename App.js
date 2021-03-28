@@ -1,10 +1,10 @@
 import * as React from 'react';
 import ShoppingListNativeElements from './exercises7/ShoppingListNativeElements'
-import MyPlaces from './exercises7/MyPlaces'
+import MyPlacesApp from './exercises7/MyPlacesApp'
 
 export default function App() {
   return (
-  <ShoppingListNativeElements/>
-  //<MyPlaces/>
+  //<ShoppingListNativeElements/>
+  <MyPlacesApp/>
   );
 }
