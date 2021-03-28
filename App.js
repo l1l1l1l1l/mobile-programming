@@ -4,7 +4,7 @@ import MyPlacesApp from './exercises7/MyPlacesApp'
 
 export default function App() {
   return (
-  //<ShoppingListNativeElements/>
-  <MyPlacesApp/>
+  <ShoppingListNativeElements/>
+  //<MyPlacesApp/>
   );
 }
